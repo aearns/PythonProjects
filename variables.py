@@ -1,3 +1,7 @@
+## Starting with Python
+# This is self-paced. Enjoy
+# This file looks at python variables and def function
+
 a = 2
 b = 55
 first_var = 3
